@@ -3,4 +3,5 @@ test repository
 
 create remote branch
 --
-    $ git branch 0.1 master
+    $ git branch dev0.1 master
+    $ git checkout dev0.1

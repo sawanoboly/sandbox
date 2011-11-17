@@ -7,6 +7,7 @@ create remote branch
     $ git checkout dev0.1
 
 edit some file.
+
     $ git commit -ma 'edit README.md'
     $ git push origin dev0.1
 
